@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パラレル☆ショータイム",
+  "base_artist": "七海うらら",
+  "createdAt": "2026-03-28T06:37:32.818358Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラレル☆ショータイム",
+      "artist": "七海うらら",
+      "has_synced": false,
+      "path": "select/pl_01_パラレル☆ショータイム_七海うらら.txt"
+    }
+  ]
+}
